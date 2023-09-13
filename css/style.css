@@ -1,0 +1,33 @@
+body {
+  background-color: #047a1d;
+  color: #ffffff;
+}
+
+h1 {
+  font-size: 30px;
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+}
+
+h2,
+h3 {
+  font-size: 20px;
+  font-family: "Times New Roman", Times, serif;
+  color: yellow;
+}
+
+p {
+  line-height: 1.2;
+}
+
+img {
+  border: 5px solid #ffffff;
+  padding: 10px;
+  margin: 20px;
+  border-top-right-radius: 30px;
+}
+
+li{
+    display: inline-block;
+    margin-left: 50px;
+}
